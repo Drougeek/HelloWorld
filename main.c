@@ -1,3 +1,1 @@
-EXO 12
-
 TEST BRANCHE
